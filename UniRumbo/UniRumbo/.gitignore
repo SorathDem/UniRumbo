@@ -1,0 +1,32 @@
+## Archivos de usuario (no deben compartirse)
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+## Archivos de Visual Studio
+.vs/
+
+## Logs
+*.log
+
+## Archivos temporales
+*.tmp
+*.temp
+
+## Archivos de base de datos locales
+*.mdf
+*.ldf
+
+## Configuración de dependencias
+packages/

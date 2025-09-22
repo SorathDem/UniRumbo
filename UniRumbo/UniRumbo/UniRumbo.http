@@ -1,0 +1,6 @@
+@UniRumbo_HostAddress = http://localhost:5051
+
+GET {{UniRumbo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

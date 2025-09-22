@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|c:\\users\\asus\\desktop\\unirumbo\\unirumbo\\unirumbo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|solutionrelative:unirumbo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|c:\\users\\asus\\desktop\\unirumbo\\unirumbo\\unirumbo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|solutionrelative:unirumbo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|c:\\users\\asus\\desktop\\unirumbo\\unirumbo\\unirumbo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|solutionrelative:unirumbo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|c:\\users\\asus\\desktop\\unirumbo\\unirumbo\\unirumbo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|solutionrelative:unirumbo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|c:\\users\\asus\\desktop\\unirumbo\\unirumbo\\unirumbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8266CD73-684E-41DC-ADC9-8109CC314CF1}|UniRumbo\\UniRumbo.csproj|solutionrelative:unirumbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\.gitignore",
+              "RelativeDocumentMoniker": "UniRumbo\\.gitignore",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\.gitignore",
+              "RelativeToolTip": "UniRumbo\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-22T15:59:38.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\Program.cs",
+              "RelativeDocumentMoniker": "UniRumbo\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\Program.cs",
+              "RelativeToolTip": "UniRumbo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:44:19.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\appsettings.json",
+              "RelativeDocumentMoniker": "UniRumbo\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\appsettings.json",
+              "RelativeToolTip": "UniRumbo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T15:40:53.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UniRumbo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UniRumbo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:34:13.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "UniRumbo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UniRumbo\\UniRumbo\\UniRumbo\\WeatherForecast.cs",
+              "RelativeToolTip": "UniRumbo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:19:18.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
